@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #a6e4ff;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ff69b4;
+    margin-bottom: 10px;
+}
+
+#gameContainer {
+    width: 800px;
+    height: 600px;
+    border: 2px solid #ff69b4;
+    margin-top: 20px;
+}
