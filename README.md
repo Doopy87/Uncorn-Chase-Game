@@ -47,4 +47,4 @@ In **Evie's Unicorn Spelling Game**, the player:
 ### Installation Steps
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/evies-unicorn-spelling-game.git
+   git clone https://github.com/Doopy87/evies-unicorn-spelling-game.git
